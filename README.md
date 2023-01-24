@@ -1,6 +1,6 @@
-# PPKURS - SQL Abfragesprache Datenbankdesign
+# PPKURS - TSQL Turbo
 
-TSQL Grundkurs vom 01.08.2022 bis 03.08.2022. Trainer: Lukas Kern (LukasK@ppedv.de) 
+TSQL Turbo am 24.01.2022. Trainer: Lukas Kern (LukasK@ppedv.de) 
 
 ## M001 | Getting Started-SQL-Server und SSMS
 
@@ -52,40 +52,3 @@ TSQL Grundkurs vom 01.08.2022 bis 03.08.2022. Trainer: Lukas Kern (LukasK@ppedv.
 - [ ] ORDER BY
 - [ ] DISTINCT
 - [ ] TOP
-
-## M008 | Aggregatsfunktionen
-
-- [ ] Verwendung von Aggregatsfunktionen
-- [ ] Übersicht
-- [ ] Distinct mit Aggregatsfunktionen
-- [ ] GROUP BY
-- [ ] Filtern von Gruppierten Daten
-  
-## M009 | Temporäre Tabellen-VIEWS-Procedures
-
-- [ ] Views
-- [ ] Ergebnisse aus Views benutzen
-- [ ] Prozeduren
-- [ ] Ergebnisse aus Prozeduren benutzen
-
-## M010 | SET-Operatoren
-
-- [ ] Interaktionen zwischen Sets
-- [ ] UNION
-- [ ] INTERSECT
-
-## M011 | Abfragesprache Subqueries
-
-- [ ] Was ist eine Unterabfrage
-- [ ] Vergleich von Unterabfragetypen
-- [ ] EXISTS
-
-## M012 | CREATE-INSERT-UPDATE-DELETE
-
-- [ ] INSERT
-- [ ] SELECT INTO
-- [ ] UPDATE
-- [ ] Datentypen
-- [ ] IDENTITY
-- [ ] Sequenzen
-- [ ] DELETE
